@@ -1,0 +1,27 @@
+body {
+  margin: 5%;
+  text-align: justify;
+  background-image: url(images/background.png);
+}
+p {
+  text-indent: 5em;
+  background-color: rgb(255, 227, 185);
+  padding: 10px;
+  border-radius: 10px;
+  font-family: serif;
+  font-size: larger;
+}
+H1,
+H2,
+H3,
+H4,
+H5,
+H6 {
+  color: rgb(30, 107, 8);
+  text-align: center;
+  font-family: cursive;
+}
+img {
+  border-radius: 50px;
+  max-width: 100%;
+}
